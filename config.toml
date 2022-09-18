@@ -1,0 +1,4 @@
+baseURL = 'https://boutalas.me'
+languageCode = 'en-us'
+title = 'Nikolaos Boutalas'
+theme = 'PaperMod'
